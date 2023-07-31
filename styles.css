@@ -14,8 +14,10 @@ body {
 .nav-wrapper {
   display: flex;
   position: fixed;
+  top: 0;
   justify-content: center;
   align-items: center;
+  z-index: 9999;
   margin: 0 auto;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
   background-color: #161b22;
