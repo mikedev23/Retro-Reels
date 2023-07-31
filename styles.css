@@ -231,28 +231,26 @@ footer {
     height: auto;
   }
 
-  @media only screen and (max-width: 600px) {
-    .vids {
-      grid-template-columns: 1fr;
-    }
+  .vids {
+    grid-template-columns: 1fr;
+  }
 
-    .col {
-      margin: 20px auto;
-      max-width: 300px;
-    }
+  .col {
+    margin: 20px auto;
+    max-width: 300px;
+  }
 
-    .movies video {
-      margin: 2rem auto;
-      width: 100%;
-      height: auto;
-    }
+  .movies video {
+    margin: 2rem auto;
+    width: 100%;
+    height: auto;
+  }
 
-    #nav-mobile li {
-      display: block;
-      margin: 25px 0;
-      padding: 18px;
-      text-align: center;
-    }
+  #nav-mobile li {
+    display: block;
+    margin: 25px 0;
+    padding: 18px;
+    text-align: center;
   }
 }
 
