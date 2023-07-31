@@ -73,8 +73,7 @@ h3 {
   margin-top: 6rem;
   color: #58a6ff;
   font-size: large;
-  font-family: 'Dancing Script', 'Lucida Sans', 'Lucida Sans Regular',
-    'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: 'Dancing Script', 'sans-serif';
   text-align: center;
   text-decoration: underline;
 }
